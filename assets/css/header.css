@@ -35,16 +35,16 @@
     margin-right: .5rem;
 }
 .information .job::before{ /*Icones*/
-    background-image: url('/assets/icons/pessoa-icone.svg') ;
+    background-image: url('assets/icons/pessoa-icone.svg') ;
 } 
 .information .location::before{
-    background-image: url('/assets/icons/location-icone.svg') ;
+    background-image: url('assets/icons/location-icone.svg') ;
 } 
 .information .contact::before {
-    background-image: url('/assets/icons/phone-icone.svg') ;
+    background-image: url('assets/icons/phone-icone.svg') ;
 } 
 .information .email::before {
-    background-image: url('/assets/icons/email-icone.svg') ;
+    background-image: url('assets/icons/email-icone.svg') ;
 } 
 
 @media only screen and (min-width: 768px) {
