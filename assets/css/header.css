@@ -1,0 +1,70 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foto{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.title{
+    text-align: center;
+    font-family: 'bebas neue' sans-serif;
+}
+.information{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+.information p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: .5rem;
+    font-size: 1.125rem;
+}
+.information p::before{
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: .5rem;
+}
+.information .job::before{ /*Icones*/
+    background-image: url('/assets/icons/pessoa-icone.svg') ;
+} 
+.information .location::before{
+    background-image: url('/assets/icons/location-icone.svg') ;
+} 
+.information .contact::before {
+    background-image: url('/assets/icons/phone-icone.svg') ;
+} 
+.information .email::before {
+    background-image: url('/assets/icons/email-icone.svg') ;
+} 
+
+@media only screen and (min-width: 768px) {
+   .header{
+    display: grid;
+    grid-template-areas: 
+    "foto title"
+    "foto information";
+   }
+   .foto{
+    grid-area: foto;
+    margin: 0 auto;
+
+   }
+   .title{
+    grid-area: title;
+    text-align: start;
+    max-width: 170px;
+   }
+   .information{
+    grid-area: information;
+   }
+  }
