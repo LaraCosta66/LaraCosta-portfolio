@@ -23,7 +23,7 @@ a:hover{
 .main::before,
 .main::after{
     content: '';
-    background-image: url('/assets/icons/background-top.svg');
+    background-image: url('../icons/background-top.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 140vw;
