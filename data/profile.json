@@ -1,0 +1,72 @@
+{
+    "name": "Lara Costa",
+        "photo": "https://avatars.githubusercontent.com/u/70964544?v=4",
+            "job": "Jovem aprendiz @ Loft",
+                "location": "São Paulo - SP",
+                    "phone": "(11) 94363-6407",
+                        "email": "larasmila64@gmail.com",
+                            "skills": {
+        "hardSkills": [
+            {
+                "name": "HTML",
+                "logo": "https://raw.githubusercontent.com/LaraCosta66/js-developer-portfolio/main/data/imgs/html.png"
+            },
+            {
+                "name": "CSS",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+            },
+            {
+                "name": "JAVASCRIPT",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+            },
+            {
+                "name": "React",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+            }
+        ],
+            "softSkills": [
+                "Empatia",
+                "Liderança",
+                "Trabalho em equipe",
+                "Flexibilidade",
+                "autonomia",
+                "Protagonista"
+            ]
+    },
+    "languages": [
+        {
+            "name": "Português BR",
+            "level": "nativo"
+        },
+        {
+            "name": "Italiano",
+            "level": "iniciante"
+        },
+        {
+            "name": "Inglês",
+            "level": "intermediário"
+        }
+
+    ],
+        "portfolio": [
+            {
+                "name": "Curso de Javascript na DIO",
+                "url": "https://github.com/LaraCosta66/Bootcamp-Javascript",
+                "github": true
+            },
+            {
+                "name": "Curso de React Rocketseat",
+                "url": "https://github.com/LaraCosta66/ignews",
+                "github": true
+            }
+        ],
+            "professionalExperience": [
+                {
+                    "name": "Jovem aprendiz SW/ Loft",
+                    "period": "2021 - até o momento",
+                    "description": "É um prazer revolucionar o mercado imobiliário"
+                }
+
+
+            ]
+}
