@@ -1,72 +1,74 @@
 {
-    "name": "Lara Costa",
-        "photo": "https://avatars.githubusercontent.com/u/70964544?v=4",
-            "job": "Jovem aprendiz @ Loft",
-                "location": "São Paulo - SP",
-                    "phone": "(11) 94363-6407",
-                        "email": "larasmila64@gmail.com",
-                            "skills": {
-        "hardSkills": [
-            {
-                "name": "HTML",
-                "logo": "https://raw.githubusercontent.com/LaraCosta66/js-developer-portfolio/main/data/imgs/html.png"
-            },
-            {
-                "name": "CSS",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-            },
-            {
-                "name": "JAVASCRIPT",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-            },
-            {
-                "name": "React",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-            }
-        ],
-            "softSkills": [
-                "Empatia",
-                "Liderança",
-                "Trabalho em equipe",
-                "Flexibilidade",
-                "autonomia",
-                "Protagonista"
-            ]
-    },
-    "languages": [
-        {
-            "name": "Português BR",
-            "level": "nativo"
-        },
-        {
-            "name": "Italiano",
-            "level": "iniciante"
-        },
-        {
-            "name": "Inglês",
-            "level": "intermediário"
-        }
-
+  "name": "Lara Costa",
+  "photo": "https://avatars.githubusercontent.com/u/70964544?v=4",
+  "job": "Desenvolvedora Front-end JR",
+  "location": "São Paulo - SP",
+  "phone": "(11) 95219-6010",
+  "email": "larasamilacosta@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/LaraCosta66/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JAVASCRIPT",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      }
     ],
-        "portfolio": [
-            {
-                "name": "Curso de Javascript na DIO",
-                "url": "https://github.com/LaraCosta66/Bootcamp-Javascript",
-                "github": true
-            },
-            {
-                "name": "Curso de React Rocketseat",
-                "url": "https://github.com/LaraCosta66/ignews",
-                "github": true
-            }
-        ],
-            "professionalExperience": [
-                {
-                    "name": "Jovem aprendiz SW/ Loft",
-                    "period": "2021 - até o momento",
-                    "description": "É um prazer revolucionar o mercado imobiliário"
-                }
-
-
-            ]
+    "softSkills": [
+      "Autonomia",
+      "Protagonista",
+      "Adapatável",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Português BR",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Intermediário"
+    },
+    {
+      "name": "Italiano",
+      "level": "Iniciante"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Game Rock Paper Scissors - The Odin Project",
+      "url": "https://laracosta66.github.io/TOP-game/",
+      "github": true
+    },
+    {
+      "name": "Curso de React Rocketseat",
+      "url": "https://github.com/LaraCosta66/ignews",
+      "github": true
+    },
+    {
+        "name": "Bootcamp Javascript DIO",
+        "url": "https://github.com/LaraCosta66/Bootcamp-Javascript",
+        "github": true
+      }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Jovem aprendiz Software Engineer @ Loft",
+      "period": "Dec, 2021 - Mar, 2023",
+      "description": "Entrei como Jovem aprendiz no setor de engenharia de software da Loft, durante todo o processo aprendi sobre as tecnologias que eram usadas lá dentro, ficava responsável por criar componentes, fazer ajustes de layout e resolver bugs com baixa complexidade na parte do Front-end da aplicação, tinha automonia para entregar minhas tarefas, tive contato com metodologias ágeis do processo como Scrum e Kanban. Também tive contato com uso de API, ReactJS combinado com Typescript, e hoje em dia meus estudos estão voltado para Javascript e a biblioteca ReactJS."
+    }
+  ]
 }
