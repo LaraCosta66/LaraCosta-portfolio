@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/LaraCosta66/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
@@ -69,7 +69,7 @@
     {
       "name": "Jovem aprendiz Software Engineer @ Loft",
       "period": "Dec, 2021 - Mar, 2023",
-      "description": "Entrei como Jovem aprendiz no setor de engenharia de software da Loft, durante todo o processo aprendi sobre as tecnologias que eram usadas lá dentro, ficava responsável por criar componentes, fazer ajustes de layout e resolver bugs com baixa complexidade na parte do Front-end da aplicação, tinha automonia para entregar minhas tarefas, tive contato com metodologias ágeis do processo como Scrum e Kanban. Também tive contato com uso de API, ReactJS combinado com Typescript, e hoje em dia meus estudos estão voltado para Javascript e a biblioteca ReactJS."
+      "description": "Durante minha jornada como jovem aprendiz, tive a oportunidade de trabalhar em projetos de desenvolvimento Front-end, onde realizei diversas funções relacionadas à criação de componentes, ajustes de layout e resolução de bugs com baixa complexidade. Com isso, desenvolvi habilidades em HTML, CSS, JavaScript e outras ferramentas importantes para a construção de aplicações web modernas."
     }
   ]
 }
