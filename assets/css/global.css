@@ -23,9 +23,8 @@ a:hover{
 .main::before,
 .main::after{
     content: '';
-    background-image: url('../icons/background-top.svg');
-    background-repeat: no-repeat;
-    background-size: contain;
+    background: rgb(2,6,23);
+    background: linear-gradient(90deg, rgba(2,6,23,1) 0%, rgba(2,6,23,1) 100%);
     width: 140vw;
     height: 100vh;
     display: inline-block;
