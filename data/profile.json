@@ -50,13 +50,18 @@
   ],
   "portfolio": [
     {
+      "name": "Curso python - Aws Re/start",
+      "url": "https://github.com/LaraCosta66/aws-restart-python",
+      "github": true
+    },
+    {
       "name": "Game Rock Paper Scissors - The Odin Project",
       "url": "https://laracosta66.github.io/TOP-game/",
       "github": true
     },
     {
       "name": "Library App - The Odin Project",
-      "url": "https://github.com/LaraCosta66/Library-TOP",
+      "url": "https://github.com/LaraCosta66/libraryApp-react",
       "github": true
     },
     {
